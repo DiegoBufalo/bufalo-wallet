@@ -1,0 +1,7 @@
+# Ignorar pastas e arquivos não necessários para o build
+.git
+.env
+node_modules
+dist
+docker-compose.yml
+Dockerfile
